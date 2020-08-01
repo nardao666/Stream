@@ -1,7 +1,7 @@
 # Stream
 
 
-Contador regressivo para Lives(streams) em pyhton.
+Contador regressivo para Lives(streams) em pyhton(time.py).
 
 Foi testado em obs e funcionando 100%
 
